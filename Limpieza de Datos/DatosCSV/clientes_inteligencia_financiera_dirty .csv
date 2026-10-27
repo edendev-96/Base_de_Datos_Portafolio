@@ -1,0 +1,85 @@
+id_cliente,nombre_cliente,segmento_cliente,ingreso_mensual_usd,patrimonio_estimado_usd,valor_portafolio_usd,rendimiento_anual_pct,producto_principal,perfil_riesgo,moneda_cuenta,fecha_alta_cliente,score_crediticio
+CLI-1001,María Pérez Torres,Corporate,217100.14,1642562.57,347635.68,15.05,Bienes Raíces,Agresivo,US Dollar,2019-04-23,730.0
+CLI-1002,Camila Gómez Díaz,pyme,118657.32,600806.04,84330.24,-0.64,Renta Fija,Agresivo,US Dollar,Aug 2025,
+CLI-1003,ELENA RIVERA PÉREZ,preferred,74105.58,2185952.22,$1234316.83,25.26,Cetes / Bonos,Moderado,Euro,2018-07-30,489.0
+CLI-1004,Lucía Pérez Rodríguez,Corporate,83648.64,1374865.35,"$740,003.96",20.2,Bienes Raíces,Agresivo,US Dollar,2025-06-14,813.0
+CLI-1005,Sofía Pérez Romero,Pyme,$108711.73,2135418.58,$745746.98,-9.18,Bienes Raíces,Conservador,Euro,03-22-2020,653.0
+CLI-1006,Rodrigo Torres González,Pyme,232664.78,3950589.6,"$1,418,236.45",-13.73,Renta Variable,,mxn,2025-03-07,810.0
+CLI-1007,Diego Morales Rivera,Retail,161242.78,2700979.11,921186.64,-3.55,Renta Fija,Agresivo,Euro,14/11/2017,683.0
+CLI-1008,Alejandro Romero Gómez,Corporate,146552.07,3186605.98,"$808,804.06",24.99,Bienes Raíces,Moderado,Euro,may 2020,655.0
+CLI-1009,fernando lópez gonzález,Private Banking,,487303.07,194256.84,7.91,Bienes Raíces,Conservador,US Dollar,09-10-2021,552.0
+CLI-1010,LUIS GÓMEZ ROMERO,Pyme,195175.29,3401696.14,1078728.0,18.19,Renta Fija,Agresivo,US Dollar,2022-03-06,684.0
+CLI-1011,Rodrigo Díaz Rodríguez,Pyme,,5328249.22,1222383.37,31.1,Renta Variable,,US Dollar,05-10-2020,482.0
+CLI-1012,ALEJANDRO GONZÁLEZ MORALES,Pyme,37715.7,893439.03,$273084.48,7.47,Renta Fija,Moderado,mxn,23/09/2025,
+CLI-1013,patricia torres morales,Retail,201536.09,2256386.03,926330.7,22.59,Fondo Mutuo,Agresivo,Euro,2018-08-09,632.0
+CLI-1014,javier garcía pérez,Corporate,"$195,839.04",5630056.91,"$1,947,968.49",21.02,Renta Variable,Agresivo,Euro,2023-03-25,692.0
+CLI-1015,Patricia Martínez Flores,Corporate,$34841.80,999999999.0,"$429,363.49",24.17,Bienes Raíces,Moderado,US Dollar,2020-01-14,660.0
+CLI-1016,Fernando Díaz Martínez,Corporate,$103361.45,2994444.52,882384.91,-11.33,Fondo Mutuo,Conservador,Euro,07/10/2021,844.0
+CLI-1017,Carlos García Torres,Pyme,$175456.70,2851787.15,1588384.0,9.88,Criptoactivos,Moderado,Euro,17/10/2018,537.0
+CLI-1018,JAVIER FLORES TORRES,Preferred,161485.62,2659737.82,576267.45,20.54,Bienes Raíces,Moderado,US Dollar,07/05/2025,550.0
+CLI-1019,Alejandro Morales Martínez,DESCONOCIDO,143020.11,3714876.93,1210717.13,22.74,Renta Variable,Agresivo,US Dollar,13/02/2018,460.0
+CLI-1020,Javier Rivera Torres,Preferred,"$225,234.69",1901666.37,818879.33,-5.7,Fondo Mutuo,Agresivo,US Dollar,2019-10-02,662.0
+CLI-1021,CAMILA RODRÍGUEZ SÁNCHEZ,Private Banking,"$95,855.50",1110590.66,"$387,375.36",24.01,Criptoactivos,Conservador,US Dollar,06-26-2020,540.0
+CLI-1022,sofía torres romero,Pyme,"$138,904.19",2516592.99,596221.99,-10.27,Renta Variable,Conservador,mxn,SIN FECHA,497.0
+CLI-1023,rodrigo romero rivera,Private Banking,"$143,089.14",3697260.95,1934432.53,8500.0,Renta Fija,Moderado,US Dollar,21/12/2023,630.0
+CLI-1024,DIEGO RIVERA FLORES,Corporate,40777.97,933828.3,352893.6,13.4,Renta Variable,Conservador,Euro,2022-06-04,738.0
+CLI-1025,Luis Rivera Torres,Preferred,198661.97,1472237.87,468210.56,-9.7,Renta Fija,,US Dollar,Aug 2023,
+CLI-1026,Alejandro Rodríguez Torres,Private Banking,153205.51,1010830.92,572038.27,-6.93,Fondo Mutuo,Moderado,mxn,07-29-2025,660.0
+CLI-1027,camila morales morales,Private Banking,241876.7,1555942.08,338592.74,0.5,Renta Fija,Moderado,Euro,06-09-2019,745.0
+CLI-1028,RODRIGO REYES PÉREZ,Private Banking,"$157,704.94",3369827.73,$1373448.83,31.24,Fondo Mutuo,Moderado,Euro,2023-04-24,754.0
+CLI-1029,Elena Sánchez Rivera,Retail,102924.52,1804425.81,1059458.45,-2.42,Fondo Mutuo,Agresivo,US Dollar,Jan 2025,826.0
+CLI-1030,LUCÍA SÁNCHEZ MORALES,Retail,178395.65,2183365.17,1264478.72,24.99,Renta Fija,Moderado,US Dollar,2021-01-21,613.0
+CLI-1031,Patricia Morales García,Corporate,61400.35,393185.05,235348.1,-6.89,Renta Fija,Moderado,mxn,SIN FECHA,
+CLI-1032,Diego Pérez Flores,Private Banking,$114820.97,936645.78,$288158.18,3.86,Criptoactivos,Conservador,Euro,04-08-2023,846.0
+CLI-1033,Javier Martínez Torres,retail,,3401924.01,1284053.06,29.46,Renta Variable,,mxn,06-20-2025,458.0
+CLI-1034,Luis Torres Romero,Pyme,240242.55,2033998.24,840832.24,-10.53,Renta Variable,Moderado,Euro,04-21-2025,9500.0
+CLI-1035,camila reyes torres,private banking,"$163,756.54",3907771.23,1011131.78,17.89,Renta Fija,Moderado,Euro,01-03-2023,690.0
+CLI-1036,CARLOS LÓPEZ RIVERA,corporate,232898.96,6439919.23,1928995.14,33.81,Renta Variable,Conservador,Euro,08-21-2022,625.0
+CLI-1037,Camila López Pérez,Private Banking,164697.68,3083122.09,1039108.74,24.43,Bienes Raíces,Moderado,US Dollar,08-16-2023,
+CLI-1038,Alejandro Sánchez Martínez,Pyme,238353.97,6040807.75,"$3,126,299.41",20.12,Renta Fija,Conservador,Euro,18/10/2023,493.0
+CLI-1039,Luis Pérez Torres,Private Banking,"$182,958.53",1375626.53,759006.31,11.67,Cetes / Bonos,Conservador,Euro,04-16-2022,743.0
+CLI-1040,Carlos Sánchez Sánchez,corporate,205830.98,4434472.65,2583436.48,-9.75,Renta Variable,Agresivo,Euro,05-13-2021,620.0
+CLI-1041,Diego González González,retail,154289.64,3808037.38,689655.86,-0.35,Bienes Raíces,Agresivo,US Dollar,21/09/2021,518.0
+CLI-1042,FERNANDO LÓPEZ GÓMEZ,Retail,167228.82,4762749.16,1323230.12,23.62,Bienes Raíces,Agresivo,mxn,Dec 2019,
+CLI-1043,Javier Pérez Torres,Preferred,,171636.17,"$74,464.59",20.22,N/A,Conservador,US Dollar,Jan 2025,
+CLI-1044,Luis López Torres,Preferred,158354.37,1292664.4,"$765,925.13",9.23,Cetes / Bonos,Agresivo,mxn,2021-06-15,584.0
+CLI-1045,Patricia González Rivera,Retail,126479.53,2209437.39,834717.67,-2.65,Fondo Mutuo,Moderado,Euro,2020-08-13,749.0
+CLI-1046,Sofía Rodríguez Rodríguez,Retail,"$197,820.89",2301171.27,991929.46,-6.58,Criptoactivos,Moderado,Euro,07/06/2019,619.0
+CLI-1047,Sofía Morales Morales,Pyme,88715.37,879359.37,"$291,510.71",28.27,Fondo Mutuo,Moderado,US Dollar,02-18-2021,752.0
+CLI-1048,Fernando López Martínez,Pyme,$148143.91,3466976.45,$1094343.47,1.45,Renta Fija,Agresivo,US Dollar,SIN FECHA,677.0
+CLI-1049,Luis Martínez Torres,Private Banking,92966.33,798266.69,$388126.09,-1.6,Bienes Raíces,Conservador,US Dollar,2018-08-18,655.0
+CLI-1050,Fernando García Torres,Private Banking,111270.15,820634.3,396839.89,9.73,Cetes / Bonos,Agresivo,Euro,2018-03-30,841.0
+CLI-1051,Diego Torres López,Pyme,167332.96,1087795.56,-120000.0,-6.35,Fondo Mutuo,Moderado,Euro,2017-11-10,579.0
+CLI-1052,javier pérez flores,corporate,210736.65,5279426.81,2775213.15,9.15,Renta Fija,Moderado,mxn,04-07-2023,775.0
+CLI-1053,MARÍA RIVERA REYES,Private Banking,19180.2,196225.06,64473.34,-1.15,Cetes / Bonos,,US Dollar,04/11/2024,734.0
+CLI-1054,Lucía López Torres,Retail,51619.35,1512851.07,$864661.79,-4.68,Cetes / Bonos,Conservador,mxn,26/10/2017,608.0
+CLI-1055,María Flores Sánchez,Corporate,"$153,429.28",1278267.54,145917.03,31.95,Renta Fija,Agresivo,mxn,24/07/2019,825.0
+CLI-1056,Diego López Morales,Pyme,170817.07,2321225.11,600986.42,8.98,Criptoactivos,Agresivo,US Dollar,04/12/2022,468.0
+CLI-1057,ALEJANDRO ROMERO MARTÍNEZ,Retail,205103.51,2327170.01,1111180.37,-5.06,Fondo Mutuo,Moderado,Euro,30/03/2021,605.0
+CLI-1058,ana flores garcía,Pyme,"$185,584.35",3922583.53,1390479.63,11.61,Fondo Mutuo,Conservador,US Dollar,2018-10-26,496.0
+CLI-1059,camila torres torres,Corporate,129970.13,2796171.25,"$783,038.81",-11.1,Bienes Raíces,Moderado,mxn,04/11/2022,720.0
+CLI-1060,Diego Reyes Sánchez,Retail,,1402979.22,309283.48,6.45,Bienes Raíces,Agresivo,mxn,12-20-2019,558.0
+CLI-1061,GABRIEL REYES GONZÁLEZ,Pyme,146338.54,3806939.41,"$1,000,769.37",34.86,Criptoactivos,,Euro,10-30-2018,821.0
+CLI-1062,Diego López Martínez,Corporate,,1594565.4,274247.75,24.87,Cetes / Bonos,Agresivo,Euro,2025-01-16,791.0
+CLI-1063,Camila García González,Private Banking,47709.34,1387270.97,$619382.06,-8.6,Renta Variable,Conservador,mxn,16/12/2017,477.0
+CLI-1064,Gabriel Martínez Rivera,Preferred,165687.9,2857048.83,$1065779.80,-13.55,Renta Variable,Moderado,Euro,24/08/2021,727.0
+CLI-1065,María Romero Rivera,pyme,226530.86,1957486.49,693183.15,8.54,Renta Fija,,mxn,2021-10-09,750.0
+CLI-1066,Camila Gómez Gómez,private banking,192837.93,1753911.18,343176.35,25.82,Criptoactivos,Moderado,Euro,2020-11-14,
+CLI-1067,CAMILA REYES MARTÍNEZ,Preferred,$170481.32,2960228.2,847142.9,11.79,Criptoactivos,Conservador,Euro,25/12/2020,685.0
+CLI-1068,camila pérez gómez,Preferred,162896.38,2608283.16,1497061.93,15.33,Renta Fija,Moderado,mxn,16/07/2023,509.0
+CLI-1069,GABRIEL RODRÍGUEZ PÉREZ,Corporate,52145.63,485113.2,204015.65,-5.54,Criptoactivos,Agresivo,mxn,06/08/2019,524.0
+CLI-1070,Alejandro Morales Morales,Private Banking,188696.19,2822431.87,"$954,792.66",08.01,Fondo Mutuo,Moderado,US Dollar,2020-04-03,520.0
+CLI-1071,María Díaz Martínez,Corporate,,3983215.64,1610296.86,14.65,Cetes / Bonos,Conservador,Euro,2019-06-13,617.0
+CLI-1072,Gabriel González Rivera,Retail,125111.44,2333633.13,1162676.76,26.05,Renta Fija,Moderado,US Dollar,05-27-2022,469.0
+CLI-1073,MARÍA FLORES GARCÍA,Retail,231801.93,4429607.06,1298393.48,17.27,Bienes Raíces,Agresivo,US Dollar,2018-11-07,695.0
+CLI-1074,DIEGO GARCÍA MARTÍNEZ,Private Banking,,314370.76,57871.75,28.02,Renta Fija,Conservador,mxn,2024-12-06,835.0
+CLI-1075,Patricia Torres Rodríguez,Private Banking,$51009.73,1476991.09,326420.79,20.85,Criptoactivos,Agresivo,Euro,2023-01-04,654.0
+CLI-1076,Ana Torres Reyes,Private Banking,24701.82,277414.63,"$53,303.31",-5.57,Renta Fija,Moderado,Euro,may 2020,752.0
+CLI-1077,Fernando Romero Torres,Retail,237177.92,3467072.64,405720.04,8.27,Renta Variable,Moderado,US Dollar,2023-01-10,716.0
+CLI-1078,Sofía González Díaz,Pyme,"$151,380.93",2094619.25,1120115.69,-6.68,Bienes Raíces,Agresivo,mxn,06-02-2019,638.0
+CLI-1079,Gabriel López Flores,Retail,"$54,964.74",831891.87,"$129,383.77",-9.72,Criptoactivos,Agresivo,US Dollar,31/08/2025,575.0
+CLI-1080,Ana García González,Preferred,77601.46,1114043.76,253639.93,31.84,Renta Fija,Agresivo,mxn,SIN FECHA,
+CLI-1006,rodrigo torres gonzález,pyme,"$232,664.78",3950589.6,1418236.45,-13.73,Renta Variable,Agresivo,mxn,07/03/2025,810.0
+CLI-1013,patricia torres morales,Retail,201536.09,2256386.03,926330.7,22.59,Fondo Mutuo,Agresivo,Euro,09/08/2018,632.0
+CLI-1029,ELENA SÁNCHEZ RIVERA,Retail,"$102,924.52",1804425.81,1059458.45,-2.42,Fondo Mutuo,Agresivo,US Dollar,2025-01-30,
+CLI-1046,Sofía Rodríguez Rodríguez,Retail,197820.89,2301171.27,991929.46,-6.58,Criptoactivos,Moderado,Euro,07/06/2019,619.0
